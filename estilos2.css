@@ -1,0 +1,93 @@
+*
+{
+    margin: 0px;
+}
+.padre
+{
+    background-color:black;
+    padding: 10px 20px 10px 20px;
+    width: 400px;
+}
+.hijo
+{
+    background-color: yellow;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.nieto
+{
+    background-color: blue;
+    padding: 10px 20px 10px 20px;
+}
+.bisnieto
+{
+    background-color: rgb(91, 231, 10);
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.tataranieto
+{
+    background-color: red;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+
+.hijo1
+{
+    background-color: yellow;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.nieto1
+{
+    background-color: blue;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 10px;
+}
+.bisnieto1
+{
+    background-color:yellow;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.bisnieto11
+{
+    background-color: rgb(91, 231, 10);
+    padding: 10px 20px 10px 20px;;
+    margin: 10px;
+}
+.tataranieto11
+{
+    background-color: red;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.hijo2
+{
+    background-color: yellow;
+    padding: 10px 20px 10px 20px;
+}
+.nieto2
+{
+    background-color: blue;
+    padding: 10px 20px 10px 20px;
+    margin: 0.5px;
+}
+.bisnieto2
+{
+    background-color: yellow;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.bisnieto22
+{
+    background-color: rgb(91, 231, 10);
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.tataranieto22
+{
+    background-color: red;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
